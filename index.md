@@ -1,8 +1,8 @@
 ## Welcome to Jam-Jalloh's Web
 ![Matriculation](https://AhmedJamJalloh.github.io/Matriculation1 001.jpg) 
-### [Photo Album](https://AhmedJamJalloh.github.io/PhotoAlbum) 
+### [Photo Album](https://ahmedjamjalloh.github.io/PhotoAlbum) 
 
-### [Topic](https://AhmedJamJalloh.github.io/topic) 
+### [Topic](https://ahmedjamjalloh.github.io/topic) 
 
 ### [Bio](https://ahmedjamjalloh.github.io/bio) 
 
