@@ -1,6 +1,6 @@
 ###                                             Sierra Leone Civil war
 
-### [Home](https://AhmedJamJalloh.github.io/index) 
+### [Home](https://ahmedjamjalloh.github.io/index) 
 Sierra Leone, a small country that is along the West Coast of Africa. She got her name from the Portuguese Explorer Pedro Da Sintra whom
 after mapping the surrounding Freetown harbor, named the formation “Serra Leoa” which means Lioness mountain in Portuguese. This small
 nation is known worldwide for its 11 years Civil war which began on the 23 March 1991, its beautiful white beaches and also its wide 
