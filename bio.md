@@ -1,4 +1,4 @@
-#### [Home](https://AhmedJamJalloh.github.io/index.md)
+#### [Home](https://AhmedJamJalloh.github.io/index)
 
 ### Ahmed Tejan Jam-Jalloh
 
