@@ -13,6 +13,6 @@ Apart from the lives that were lost, the war also destroyed many government buil
 approximately 17 years ago, but the stains of it is still a clear evidence in the Nation today. Its economy, infrastructure and even 
 educational sector has never been restored to its “pre-civil” war days.
 
-###References
+### References
 -	Ishmael Beah’s story. [A long Way Gone](http://www.alongwaygone.com/)
 -	Sierra Leone Civil War. Retrieved from <https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War>
