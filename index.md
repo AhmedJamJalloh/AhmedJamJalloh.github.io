@@ -2,9 +2,9 @@
 ![Matriculation](https://AhmedJamJalloh.github.io/Matriculation1 001.jpg) 
 ### [Photo Album](AhmedJamJalloh.github.io/PhotoAlbum.md) 
 
-### [Topic](https://github.com/AhmedJamJalloh/AhmedJamJalloh.github.io/edit/master/topic.md) 
+### [Topic](AhmedJamJalloh.github.io/topic.md) 
 
-### [Bio](https://github.com/AhmedJamJalloh/AhmedJamJalloh.github.io/blob/master/bio.md) 
+### [Bio](AhmedJamJalloh.github.io/bio.md) 
 
 First of many websites. This website tells you a little bit about myself;
 - Where I was born
