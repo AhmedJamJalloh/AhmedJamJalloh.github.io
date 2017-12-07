@@ -4,7 +4,7 @@
 
 ### Topic
 
-### Bio
+### [Bio](https://AhmedJamJalloh.github.io/bio.md) 
 
 First of many websites. This website tells you a little bit about myself;
 - Where I was born
