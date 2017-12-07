@@ -1,10 +1,10 @@
 ## Welcome to Jam-Jalloh's Web
 ![Matriculation](https://AhmedJamJalloh.github.io/Matriculation1 001.jpg) 
-### [Photo Album](AhmedJamJalloh.github.io/PhotoAlbum.md) 
+### [Photo Album](https://AhmedJamJalloh.github.io/PhotoAlbum.md) 
 
-### [Topic](AhmedJamJalloh.github.io/topic.md) 
+### [Topic](https://AhmedJamJalloh.github.io/topic.md) 
 
-### [Bio](AhmedJamJalloh.github.io/bio.md) 
+### [Bio](https://AhmedJamJalloh.github.io/bio.md) 
 
 First of many websites. This website tells you a little bit about myself;
 - Where I was born
