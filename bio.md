@@ -10,7 +10,7 @@ AP     96617
 #### Contact:
 -	Email: atjamjalloh90@gmail.com      
 -	Mobile: +818034832016
--	LinkedIn Profile: <https://linkedin.com/in/ahmed-jam-jalloh9990a4119>
+-	LinkedIn Profile: [LinkedIn](https://linkedin.com/in/ahmed-jam-jalloh9990a4119)
 
 #### Education
 B.S. Computer Networks and Cybersecurity (second bachelor’s)
