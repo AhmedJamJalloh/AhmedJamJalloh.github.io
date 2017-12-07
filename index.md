@@ -1,4 +1,4 @@
-## Welcome to Jam-Jalloh's Web
+### Welcome to Jam-Jalloh's Web
 
 ### Photo Album
 
@@ -19,5 +19,4 @@ in the Civil war.I graduated boot camp and have been stationed in Japan since Fe
 professionally, academically and personally. Please take a moment and go through my website and for any feedback please feel free to
 contact me via email or my LinkedIn link below.
 
-### Email: atjamjalloh90@gmail.com or 
-#### [LinkedIn](linkedin.com/in/ahmed-jam-jalloh-9990a4119)
+#### Email: atjamjalloh90@gmail.com or [LinkedIn](linkedin.com/in/ahmed-jam-jalloh-9990a4119)
