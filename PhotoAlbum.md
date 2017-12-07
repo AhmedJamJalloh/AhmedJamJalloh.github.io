@@ -1,5 +1,5 @@
 ##                                      Precious Memories
-### [Home](https://AhmedJamJalloh.github.io/index)
+### [Home](https://ahmedjamjalloh.github.io/index)
 
 ![Construction Site](https://AhmedJamJalloh.github.io/IMG20130608_005.jpg) 
 
