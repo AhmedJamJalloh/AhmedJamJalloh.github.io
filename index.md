@@ -4,7 +4,7 @@
 
 ### [Topic](https://AhmedJamJalloh.github.io/topic.md) 
 
-### [Bio](https://AhmedJamJalloh.github.io/bio.md) 
+### [Bio](https://github.com/AhmedJamJalloh/AhmedJamJalloh.github.io/blob/master/bio.md) 
 
 First of many websites. This website tells you a little bit about myself;
 - Where I was born
