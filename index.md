@@ -2,7 +2,7 @@
 ![Matriculation](https://AhmedJamJalloh.github.io/Matriculation1 001.jpg) 
 ### [Photo Album](https://github.com/AhmedJamJalloh/AhmedJamJalloh.github.io/edit/master/PhotoAlbum.md) 
 
-### [Topic](https://AhmedJamJalloh.github.io/topic.md) 
+### [Topic](https://github.com/AhmedJamJalloh/AhmedJamJalloh.github.io/edit/master/topic.md) 
 
 ### [Bio](https://github.com/AhmedJamJalloh/AhmedJamJalloh.github.io/blob/master/bio.md) 
 
