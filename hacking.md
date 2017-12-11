@@ -1,7 +1,8 @@
-Home
+### [Home](https://ahmedjamjalloh.github.io/index)
 
 ##                                                        HACKING
-    There has always been a misconception among common folks about the meaning and implications of Computer Hacking. The word itself
+    
+There has always been a misconception among common folks about the meaning and implications of Computer Hacking. The word itself
 has baffled so many as to push some to assume only the negative whenever Computer hacking is mentioned. However, this is not so. 
 Hacking, just like power, can be used for both good and evil. It’s very unfortunate that most people only associate hackers whenever 
 hacking scandals like the UBER, EQUIFAX, BITCOIN, etc. We tend to forget the hackers who work in the public’s interest; to help detect 
@@ -22,7 +23,7 @@ unintended use. In this sense, a hacker might modify a robotic vacuum cleaner to
 hacker might build a novel piece of furniture by rearranging the parts of prefabricated furniture kits. This kind of hacking shares a
 strong connection with traditional tinkering.” (Funk & Wagnalls, 2017, 1p.)
 
-###PROS AND CONS OF COMPUTER HACKING
+### PROS AND CONS OF COMPUTER HACKING
 
 Advantages of computer hacking can be summarized as the following:
 -	Computer hacking can be used to recover lost data or information on a computer system. In fact, hackers help build computer network
@@ -34,7 +35,7 @@ Disadvantages of Hacking can be summarized as follows:
 
 ### ITS IMPLICATIONS ON SOCIETY
 
-    According to Julie Herschfeld Davis (2015) “The Obama administration on Thursday revealed that 21.5 million people were swept up in 
+According to Julie Herschfeld Davis (2015) “The Obama administration on Thursday revealed that 21.5 million people were swept up in 
 a colossal breach of government computer systems that was far more damaging than initially thought, resulting in the theft of a vast 
 trove of personal information, including social security numbers and some fingerprints.” (para.1)
 The media has recently been plagued by information of Data Interference, system interference, identity fraud and the likes. The above
@@ -53,7 +54,7 @@ impression on our society. Even with laws such as the Computer Fraud and abuse a
 the world, this has failed to stop black hat hackers from preying on the masses. This has left many with many unanswered questions and
 even fear of issues that may arise in the not too distance future of fast growing digital age.
 
-REFERENCES
+### REFERENCES
 -	Fun & Wagnalls (2017) Hacking, New World Encyclopedia.
 Retrieved from
 http://eds.b.ebscohost.com.ezproxy.umuc.edu/eds/detail/detail?vid=2&sid=30c9cbfe-110b-4964-a034-0c2de33c3743%40sessionmgr102&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=HA001325&db=funk
