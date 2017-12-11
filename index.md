@@ -4,6 +4,8 @@
 
 ### [Topic](https://ahmedjamjalloh.github.io/topic) 
 
+### [Hacking](https://ahmedjamjalloh.github.io/hacking)
+
 ### [Bio](https://ahmedjamjalloh.github.io/bio) 
 
 First of many websites. This website tells you a little bit about myself;
