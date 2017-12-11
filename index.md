@@ -22,3 +22,8 @@ professionally, academically and personally. Please take a moment and go through
 contact me via email or my LinkedIn link below.
 
 Email: atjamjalloh90@gmail.com or [LinkedIn](https://www.linkedin.com/in/ahmed-jam-jalloh-9990a4119)
+
+
+
+--------------------------------------------------------
+Copyright 2017, Ahmed Jam-Jalloh.
