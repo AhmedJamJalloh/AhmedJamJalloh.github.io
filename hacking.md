@@ -57,7 +57,7 @@ even fear of issues that may arise in the not too distance future of fast growin
 ### REFERENCES
 -	Fun & Wagnalls (2017) Hacking, New World Encyclopedia.
 Retrieved from
-http://eds.b.ebscohost.com.ezproxy.umuc.edu/eds/detail/detail?vid=2&sid=30c9cbfe-110b-4964-a034-0c2de33c3743%40sessionmgr102&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=HA001325&db=funk
--	Davis, J.H. ( 2015, July 9). Hacking of Government Computers Exposed 21.5 Million People. Retrieved from;
-https://www.nytimes.com/2015/07/10/us/office-of-personnel-management-hackers-got-data-of-millions.html
--	Ernest Aduwa (2015, September 10). The legal implications of hacking.Retrieved from http://www.barristermagazine.com/the-legal-implications-of-hacking/.
+<http://eds.b.ebscohost.com.ezproxy.umuc.edu/eds/detail/detail?vid=2&sid=30c9cbfe-110b-4964-a034-0c2de33c3743%40sessionmgr102&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=HA001325&db=funk>
+-	Davis, J.H. ( 2015, July 9). Hacking of Government Computers Exposed 21.5 Million People. Retrieved from
+<https://www.nytimes.com/2015/07/10/us/office-of-personnel-management-hackers-got-data-of-millions.html>
+-	Ernest Aduwa (2015, September 10). The legal implications of hacking.Retrieved from <http://www.barristermagazine.com/the-legal-implications-of-hacking/>
