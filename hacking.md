@@ -1,6 +1,7 @@
 ### [Home](https://ahmedjamjalloh.github.io/index)
 
 ##                                                        HACKING
+![Hacking](AhmedJamJalloh.github.io/2204-computer-hacker.jpg)
     
 There has always been a misconception among common folks about the meaning and implications of Computer Hacking. The word itself
 has baffled so many as to push some to assume only the negative whenever Computer hacking is mentioned. However, this is not so. 
